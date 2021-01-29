@@ -9,10 +9,11 @@ For this game to work:
 - Add the SkyroadsRemastered directory to .../Framework-EGC-master/Source/
 
 How to play:
-W/S - adjust moving speed
-A/D - move left/right
-Space - jump
-C - toggle 3rd person/1st person camera
+
+- W/S - adjust moving speed
+- A/D - move left/right
+- Space - jump
+- C - toggle 3rd person/1st person camera
 
 Rules:
 
