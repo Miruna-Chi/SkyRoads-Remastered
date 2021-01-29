@@ -18,15 +18,15 @@ How to play:
 Rules:
 
 Fuel bar in the upper right corner:
-    - empties proportionally to the speed the UFO is travelling at
-    - if it's depleted: -1HP
+- empties proportionally to the speed the UFO is travelling at
+- if it's depleted: -1HP
 
 Landing:
-    - Green platform: fuel++
-    - Yellow platform: fuel--
-    - Orange platform: game speeds up for a set amount of time
-    - Red platform: game over
-    - Falling: game over
+- Green platform: fuel++
+- Yellow platform: fuel--
+- Orange platform: game speeds up for a set amount of time
+- Red platform: game over
+- Falling: game over
     
 Demo gameplay on YouTube:
 https://youtu.be/YNz6FkyEvds
