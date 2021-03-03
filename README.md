@@ -29,6 +29,6 @@ Landing:
 - Falling: game over
     
 Demo gameplay on YouTube:
-https://youtu.be/YNz6FkyEvds
+https://youtu.be/1-cplLosoRQ
 
     
