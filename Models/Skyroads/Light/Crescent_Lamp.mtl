@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 07.12.2018 15:47:26
+
+newmtl Lee_Broom_Crescent_Table_Lamp_mat1_mtl_1
+	Ns 10.0000
+	Ni 1.5000
+	d 0.6431
+	Tr 0.3569
+	Tf 0.6431 0.6431 0.6431 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Lee_Broom_Crescent_Table_Lamp_mat1_mtl_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.6902 0.5686 0.3804
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump dcmap_Lee Broom_Crescent Table Lamp_bump.jpg
+	bump dcmap_Lee Broom_Crescent Table Lamp_bump.jpg
+
+newmtl Lee_Broom_Crescent_Table_Lamp_mat1_mtl_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.4745 0.4745 0.4745
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka dcmap_Lee Broom_Crescent Table Lamp_diff.jpg
+	map_Kd dcmap_Lee Broom_Crescent Table Lamp_diff.jpg
+	map_bump dcmap_Lee Broom_Crescent Table Lamp_bump(1).jpg
+	bump dcmap_Lee Broom_Crescent Table Lamp_bump(1).jpg
